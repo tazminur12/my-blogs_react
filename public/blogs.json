@@ -1,0 +1,38 @@
+[
+    {
+        "id": "1",
+        "name": "Understanding React State",
+        "coverPhoto": "https://i.ibb.co.com/67f13Xnk/images.png",
+        "description": "An introduction to managing state in React applications with practical examples.",
+        "authorImage": "https://example.com/authors/john.jpg",
+        "authorName": "John Doe",
+        "status": "published"
+    },
+    {
+        "id": "2",
+        "name": "Mastering CSS Grid",
+        "coverPhoto": "https://i.ibb.co.com/zH5fknhY/images-1.png",
+        "description": "A complete guide to CSS Grid Layout with use cases and code snippets.",
+        "authorImage": "https://example.com/authors/jane.jpg",
+        "authorName": "Jane Smith",
+        "status": "published"
+    },
+    {
+        "id": "3",
+        "name": "JavaScript Promises Explained",
+        "coverPhoto": "https://i.ibb.co.com/4w136qXt/images.jpg",
+        "description": "Learn how Promises work in JavaScript and how to use them effectively.",
+        "authorImage": "https://example.com/authors/adam.jpg",
+        "authorName": "Adam West",
+        "status": "draft"
+    },
+    {
+        "id": "4",
+        "name": "Deploying with Vercel",
+        "coverPhoto": "https://i.ibb.co.com/6JcZ36Pm/1-u1-Ik-Xn-Smr4-RR4-I6-Xa-Sr-Hg.jpg",
+        "description": "A step-by-step tutorial on deploying your frontend apps using Vercel.",
+        "authorImage": "https://example.com/authors/emma.jpg",
+        "authorName": "Emma Lee",
+        "status": "published"
+    }
+]
